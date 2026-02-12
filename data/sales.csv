@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,City,MonthlyIncome,PurchaseAmount
+1,25,Male,Tehran,8000,1200
+2,40,Female,Shiraz,12000,2500
+3,35,Male,Tehran,10000,1800
+4,29,Female,Isfahan,9000,1500
+5,50,Male,Shiraz,15000,3200
+6,33,Female,Tehran,,1700
+7,45,Male,Isfahan,13000,2800
+8,38,Female,Tehran,11000,
+9,28,Male,Shiraz,9500,1600
+10,52,Female,Isfahan,16000,3500
